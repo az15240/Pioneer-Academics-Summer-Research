@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: -//ScheduleOnce//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210722T024144Z
+DTSTART:20210722T123000Z
+DTEND:20210722T133000Z
+DESCRIPTION:Attendee: \nGuang Yang (stanley_yangguang@qq.com) \n\n\nEvent type \nPioneer Research Seminar‌  \n\n\nBooking page: \nSU21 RS: The Research Process‌  \n\n\nZoom Room: \nJoin Zoom Meeting \nhttps://pioneeracademics.zoom.com/j/94909798313?pwd=dlhFUGwrcmkwWXU5aEJjME9XYlpYdz09 \n\n\nMeeting ID: 949 0979 8313 \nPassword: Research \n\n\n \n\n\nBooking ID: \nBKNG-1HU5XTS98FN4 \n\n\n \nPioneer Scholar ID: \nSU21_201176_PS \n\n\nYour professor (Last Name Only): \nChartier \n\n\n
+LOCATION:Join Zoom Meetinghttps://pioneeracademics.zoom.com/j/94909798313?pwd=dlhFUGwrcmkwWXU5aEJjME9XYlpYdz09Meeting ID: 949 0979 8313Password: Research
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Guang Yang - Pioneer Research Seminar
+TRANSP:OPAQUE
+UID:9C2C593D-143F-4637-9467-21CDECB76D57
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
